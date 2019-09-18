@@ -1,0 +1,29 @@
+main {
+    border: 3px solid maroon;
+}
+
+.picture {
+    border: 6px solid orange;
+    height: 150px;
+    width: 280px;
+    margin: 20px 5px;
+}
+
+#text {
+    border: 6px dashed orange;
+    background-color: yellow;
+    height: 150px;
+    width: 280px;
+    margin: 20px 5px;
+}
+
+.important {
+    background-color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+body {
+    background-color: beige;
+    margin: 0px 5px;
+}
